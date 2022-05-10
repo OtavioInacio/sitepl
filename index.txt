@@ -20,10 +20,18 @@
    <h1 class="software">O que é o software livre?</h1>
    <p class="softwareestilo">Software livre, é um movimento que busca o livre estudo do usuário sobre o código de um determinado software. A Free Software Foundation (FSF), diz que qualquer pessoa deve poder executar, copiar, distribuir, estudar, mudar e melhorar determinada aplicação.</p>
   <br>
-   <h1 class="conteudos">Conteúdos</h1>
-   <br><br><br><br>
-   <div class="box">
-   <a href="https://www.instagram.com/?hl=pt-br"><h4>01/05/2022</h4></a>
-  </div>
+</div>
+<fieldset class="fieldset">
+<table class="tabela">
+  <tr class="titulo">
+    <th>Data</th>
+    <th>Conteudos</th>
+  </tr>
+  <tr>
+    <td>07/05/2022</td>
+    <td>Exemplo</td>
+  </tr>
+</table><br>
+</fieldset>
   </body>
 </html>
